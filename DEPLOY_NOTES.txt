@@ -1,0 +1,2 @@
+Built in Colab with Python 3.13.16. Models were pickled with scikit-learn 1.6.1; keep that version.
+If Render rejects PYTHON_VERSION, use the newest patch release of the same minor version (x.y) that Render lists.

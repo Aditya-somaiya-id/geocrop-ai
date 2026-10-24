@@ -1,0 +1,54 @@
+crop,use_temp,use_rain,use_ph,use_frost
+Arecanut,True,True,True,True
+Arhar/Tur,True,True,True,True
+Bajra,True,True,True,True
+Banana,True,True,True,False
+Barley,True,True,True,True
+Black Pepper,True,False,True,True
+Brinjal,True,True,True,True
+Cardamom,True,True,True,True
+Cashewnut,True,True,True,True
+Castor Seed,True,True,True,True
+Coconut,True,True,True,True
+Coriander,True,True,True,True
+Cotton(Lint),True,True,True,True
+Cowpea(Lobia),True,True,True,True
+Dry Chillies,True,True,True,True
+Garlic,True,True,True,True
+Ginger,True,True,True,True
+Gram,True,True,True,True
+Groundnut,True,True,True,True
+Guar Seed,True,True,True,True
+Horse-Gram,True,True,True,True
+Jowar,True,False,True,True
+Jute,True,True,True,True
+Khesari,True,True,True,True
+Linseed,True,True,False,True
+Maize,True,True,True,True
+Mango,True,True,True,True
+Masoor,True,True,True,True
+Mesta,True,True,True,True
+Moong(Green Gram),True,True,True,True
+Moth,True,True,True,True
+Niger Seed,True,True,True,True
+Onion,True,True,True,True
+Orange,True,True,True,True
+Papaya,True,True,True,True
+Pineapple,True,True,True,True
+Potato,True,True,True,True
+Ragi,True,True,True,True
+Rapeseed &Mustard,True,True,True,True
+Rice,True,True,True,True
+Safflower,True,True,True,True
+Sannhamp,True,True,True,True
+Sesamum,True,True,True,True
+Soyabean,True,True,True,True
+Sugarcane,True,True,True,True
+Sunflower,True,True,True,True
+Sweet Potato,True,True,True,True
+Tapioca,True,True,True,True
+Tobacco,True,True,True,True
+Tomato,True,True,True,True
+Turmeric,True,True,True,True
+Urad,True,True,True,True
+Wheat,True,True,True,True
